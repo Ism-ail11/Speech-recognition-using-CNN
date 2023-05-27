@@ -12,4 +12,5 @@ Once the CNN model with MFCC was trained, I evaluated its performance on a separ
 Finally, I integrated the trained CNN model with MFCC into a practical speech recognition application. The application accepted audio inputs, processed them using the pre-trained CNN model with MFCC, and generated the corresponding transcriptions or text outputs. I also implemented post-processing techniques such as language modeling or decoding algorithms to further enhance the accuracy and fluency of the transcriptions.
 
 Through this project, I aimed to showcase the effectiveness of combining CNN architectures with MFCC features for speech recognition tasks. The utilization of MFCC provided a frequency-based representation that captured important characteristics of the audio signal, while the CNN model leveraged its ability to learn hierarchical features from large-scale datasets, resulting in improved accuracy and robustness in transcribing spoken words into written text.
-le lien de telechargement de dataset : http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
+
+the dataset download link : http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
